@@ -1,0 +1,15 @@
+{
+    "name": "maxime/pokedex",
+    "description": "Small pokedex for educational purpose",
+    "type": "project",
+    "authors": [
+        {
+            "name": "maxime",
+            "email": "maxime.rigaud.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "symfony/var-dumper": "^4.2"
+    }
+}
